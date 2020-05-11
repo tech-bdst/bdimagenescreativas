@@ -120,14 +120,14 @@ body,
            Content Boxes
 =================================*/
 .content-bx-lg {
-    padding: 120px 0px !important;
+    padding: 200px 0px !important;
 }
 .content-bx-md {
-    padding: 100px 0px;
+    padding: 120px 0px !important;
 }
 
 .content-bx-sm {
-    padding: 90px 0px;
+    padding: 90px 0px !important;
 }
 
 
@@ -12055,7 +12055,7 @@ button.toast-close-button {
 #footer {
 	position: relative;
 	background-color: #EEE;
-	border-top: 5px solid rgba(0,0,0,0.2);
+	/*border-top: 5px solid rgba(0,0,0,0.2);*/
 }
 
 .device-xl.sticky-footer #top-bar,
@@ -12097,7 +12097,7 @@ button.toast-close-button {
 
 #footer .footer-widgets-wrap {
 	position: relative;
-	padding: 80px 0;
+	padding: 5px 0;
 }
 
 .footer-widgets-wrap .col_full,
